@@ -1,6 +1,5 @@
 This repo contains all the projects related to Dockers Technology.
 
-### Screenshot
+![App UI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/04/075c8694.jpeg)
 
-![Homepage]("C:\Users\ayesha.zakria\Pictures\Screenshots\Screenshot 2025-04-24 152350.png")
 
