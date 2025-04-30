@@ -1,6 +1,6 @@
 **This readme file will explain deployment of ciso-app deployment on the local machine (RHEL-9)**
 </br>
-** STEP-1 ** </br>
+**STEP-1** </br>
 
 clone the repo: </br>
 
@@ -8,10 +8,10 @@ clone the repo: </br>
 
 run the preparation script and follow the instructions:</br>
 
-**./docker-compose.sh **</br>
+**./docker-compose.sh**</br>
 
 
-** STEP-2 **</br>
+**STEP-2**</br>
 
 - To fix x509 error (self-signed cert used by caddy ) while pulling docker images inside container </br>
   temporary solution</br>
@@ -28,7 +28,7 @@ run the preparation script and follow the instructions:</br>
   **sudo lsof -i : <8443></br>**
   **kill -9 <PID></br>**
   
-** output**
+**output</br>**
 
 ![Image](https://github.com/user-attachments/assets/b39ea0dc-b423-4610-8e1c-f357bdf710ad)
   
